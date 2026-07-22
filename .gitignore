@@ -9,7 +9,7 @@ __pycache__/
 **/.ipynb_checkpoints/
 
 # Data / outputs
-data_storage/
+# data_storage/
 logs/
 research/
 
